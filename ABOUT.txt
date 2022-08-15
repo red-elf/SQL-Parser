@@ -1,1 +1,1 @@
-SQL Pareser
+Wrapped the 'sql-parser' C++ library by 'hyrise'
